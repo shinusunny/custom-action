@@ -1,4 +1,4 @@
-name: 'Keyword Releaser 9000'
+name: 'Test Custom Action'
 description: 'Creates releases based on a keyword'
 runs:
    using: 'docker'
